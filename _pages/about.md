@@ -37,123 +37,13 @@ I am a Ph.D. candidate in Computer Science at the University of Massachusetts Am
 Previously, I received my B.S. in Computer Science from Nankai University.
 
 
-<!-- =========================
-     Research focus (3 pillars)
-========================= -->
-
-<div style="border:1px solid rgba(148,163,184,.28);
-            border-radius:16px;
-            background:rgba(148,163,184,.05);
-            padding:14px 14px 10px 14px;
-            margin:12px 0 14px 0;">
-
-  <!-- Header -->
-  <div style="font-weight:850; margin-bottom:4px;">Research focus (3 pillars)</div>
-  <div style="opacity:.78; margin-bottom:10px;">My work focuses on three connected problems:</div>
-
-  <!-- Pillar 1 -->
-  <details style="padding:10px 8px;">
-    <summary style="cursor:pointer; list-style:none;">
-      <span style="font-weight:800;">1) Agents that think in high-stakes settings</span>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0;
-                     border-radius:999px; border:1px solid rgba(148,163,184,.28);
-                     background:rgba(148,163,184,.10);">
-          Tool-using reasoning
-        </span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0;
-                     border-radius:999px; border:1px solid rgba(148,163,184,.28);
-                     background:rgba(148,163,184,.10);">
-          RAG + Memory
-        </span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0;
-                     border-radius:999px; border:1px solid rgba(148,163,184,.28);
-                     background:rgba(148,163,184,.10);">
-          Uncertainty-aware planning
-        </span>
-      </span>
-    </summary>
-    <div style="margin-top:10px; padding-left:2px;">
-      <p style="margin:0 0 10px 0;">
-        A central focus is <strong>agents that think in high-stakes settings</strong>. I build LLM agents for
-        <strong>evidence-based clinical reasoning</strong>, where models plan, retrieve guidelines or knowledge graphs,
-        and justify decisions with verifiable support rather than fluent guesses.
-      </p>
-      <p style="margin:0;">
-        I am also deeply interested in <strong>multimodal medical agents in “multiple images” settings</strong>—where
-        “multiple” can mean <strong>time</strong> (longitudinal imaging across a patient’s care journey, or video such as
-        surgical procedures), <strong>space</strong> (3D volumes), and <strong>modality</strong> (e.g., X-ray, CT, MRI,
-        polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified,
-        step-by-step way.
-      </p>
-    </div>
-  </details>
-
-  <!-- divider -->
-  <div style="height:1px; background:rgba(148,163,184,.22); margin:6px 0;"></div>
-
-  <!-- Pillar 2 (placeholder; paste your Pillar 2 details here) -->
-  <details style="padding:10px 8px;">
-    <summary style="cursor:pointer; list-style:none;">
-      <span style="font-weight:800;">2) Agents that communicate over long horizons</span>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Long-horizon dialogue</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">User modeling</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Safety under drift</span>
-      </span>
-    </summary>
-    <div style="margin-top:10px; padding-left:2px;">
-      <p style="margin:0;">
-        I also study <strong>agents that communicate with patients and clinicians over long horizons</strong>. I build multi-agent
-        simulations for discharge education, chronic disease management, and recovery support, with a focus on
-        <strong>multi-session interactions</strong> where goals unfold over days, weeks or months. I evaluate whether agents can
-        maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational
-        drift and social pressure.
-      </p>
-    </div>
-  </details>
-
-  <!-- divider -->
-  <div style="height:1px; background:rgba(148,163,184,.22); margin:6px 0;"></div>
-
-  <!-- Pillar 3 (placeholder; paste your Pillar 3 details here) -->
-  <details style="padding:10px 8px;">
-    <summary style="cursor:pointer; list-style:none;">
-      <span style="font-weight:800;">3) Methods to optimize, train, and stress-test think+communicate agents</span>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Test-time orchestration</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Data-centric alignment</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px;
-                     border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">RL in simulation</span>
-      </span>
-    </summary>
-    <div style="margin-top:10px; padding-left:2px;">
-      <p style="margin:0;">
-        I develop <strong>methods to optimize, train, and stress-test these agents</strong>. On the system side, I design
-        <strong>test-time orchestration</strong> loops (planning, retrieval, tool use, self-check) that make reasoning more structured
-        and auditable. On the learning side, I use <strong>data-centric pipelines</strong> (expert annotation, human edits, synthetic
-        data, hard-case mining) and <strong>learning from feedback</strong> (preference signals, outcome-verifiable objectives, and
-        RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior.
-      </p>
-    </div>
-  </details>
-
-</div>
-
-
-
 
 <!-- =========================
      Research focus (3 pillars)
 ========================= -->
 
-<div style="padding:12px 14px; border:1px solid rgba(148,163,184,.32); border-radius:14px; background:rgba(148,163,184,.06); margin: 12px 0 12px 0;">
-  <div style="font-weight:850; margin-bottom:4px;">Research focus (3 pillars)</div>
+<div style="padding:12px 14px; border:1px solid rgba(239,68,68,.22); border-radius:14px; background:rgba(239,68,68,.06); margin: 12px 0 12px 0;">
+  <div style="font-weight:800; margin-bottom:4px;">Research focus (3 pillars)</div>
   <div style="opacity:.78;">My work focuses on three connected problems:</div>
 </div>
 
@@ -223,8 +113,8 @@ Previously, I received my B.S. in Computer Science from Nankai University.
      Selected areas & recent papers
 =============================== -->
 
-<div style="padding:12px 14px; border:1px solid rgba(249,115,22,.30); border-radius:14px; background:rgba(249,115,22,.06); margin: 12px 0 12px 0;">
-  <div style="font-weight:850; margin-bottom:4px;">Selected areas & recent publications</div>
+<div style="padding:12px 14px; border:1px solid rgba(59,130,246,.22); border-radius:14px; background:rgba(59,130,246,.06); margin: 12px 0 12px 0;">
+  <div style="font-weight:800; margin-bottom:4px;">Selected areas & recent publications</div>
   <div style="opacity:.78;">Concretely, some areas I have been publishing on recently include:</div>
 </div>
 
@@ -338,7 +228,7 @@ Previously, I received my B.S. in Computer Science from Nankai University.
 =============================== -->
 
 
-<div style="padding:12px 14px; border-left:4px solid rgba(100,116,139,0.7); background: rgba(100,116,139,0.10); border-radius:10px; margin: 14px 0;">
+<div style="padding:12px 14px; border-left:4px solid rgba(34,197,94,.45); background: rgba(34,197,94,.08); border-radius:10px; margin: 14px 0;">
   <div style="font-weight:700; margin-bottom:6px;">
     To junior Ph.D./master/undergraduate students
   </div>
@@ -359,7 +249,7 @@ Previously, I received my B.S. in Computer Science from Nankai University.
 ### Service
 
 <details open markdown="1">
-  <summary><strong>AI Conference Area Chair</strong></summary>
+  <summary><strong>AI Conference Area Chair (2025–present)</strong></summary>
   <div markdown="1">
   NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
   </div>
