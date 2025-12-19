@@ -36,6 +36,28 @@ I am a Ph.D. candidate in Computer Science at the University of Massachusetts Am
 
 Previously, I received my B.S. in Computer Science from Nankai University.
 
+<div style="padding:12px 14px; border:1px solid rgba(148,163,184,.32); border-radius:14px; background:rgba(148,163,184,.06); margin: 12px 0 12px 0;">
+  <div style="font-weight:850; margin-bottom:4px;">Research focus (3 pillars)</div>
+  <div style="opacity:.78;">My work focuses on three connected problems:</div>
+</div>
+
+<div style="padding:10px 12px; border:1px solid rgba(148,163,184,.22); border-radius:14px; background:rgba(148,163,184,.04); margin: 10px 0;">
+  <details>
+    <summary style="cursor:pointer;">
+      <strong>1) Agents that think in high-stakes settings</strong>
+      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
+        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Tool-using reasoning</span>
+        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">RAG + Memory</span>
+        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Uncertainty-aware planning</span>
+      </span>
+    </summary>
+
+    <div style="margin-top:10px;">
+      <p>A central focus is <strong>agents that think in high-stakes settings</strong>. I build LLM agents for <strong>evidence-based clinical reasoning</strong>, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses.</p>
+      <p>I am also deeply interested in <strong>multimodal medical agents in “multiple images” settings</strong>—where “multiple” can mean <strong>time</strong> (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), <strong>space</strong> (3D volumes), and <strong>modality</strong> (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.</p>
+    </div>
+  </details>
+</div>
 
 
 
