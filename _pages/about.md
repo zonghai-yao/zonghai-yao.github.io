@@ -47,9 +47,11 @@ Concretely, some areas I have been publishing on recently include:
 <details open>
 <summary><strong>1) Multi-agent interaction and long-horizon dialogue</strong> — <em>One-liner:</em> I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.</summary>
 
-- ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care ([AAAI 2026, AI for Social Impact](https://arxiv.org/abs/2509.00891))
-- ChatThero: A Language Agent for Recovery Support ([Preprint, 2025](https://arxiv.org/abs/2508.20996))
-- A Survey on LLM-based Multi-Agent AI Hospital ([Preprint, 2025](https://osf.io/preprints/osf/bv5sg_v1))
+<ul>
+    <li>ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care (<a href="https://arxiv.org/abs/2509.00891">AAAI 2026, AI for Social Impact</a>)</li>
+    <li>ChatThero: A Language Agent for Recovery Support (<a href="https://arxiv.org/abs/2508.20996">Preprint, 2025</a>)</li>
+    <li>A Survey on LLM-based Multi-Agent AI Hospital (<a href="https://osf.io/preprints/osf/bv5sg_v1">Preprint, 2025</a>)</li>
+  </ul>
 
 </details>
 
