@@ -45,7 +45,7 @@ My work focuses on three connected problems:
 Concretely, some areas I have been publishing on recently include:
 
 <details open>
-<summary><b>1) Multi-agent interaction and long-horizon dialogue</b> — I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.</summary>
+<summary><strong>1) Multi-agent interaction and long-horizon dialogue</strong> — <em>One-liner:</em> I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.</summary>
 
 - ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care ([AAAI 2026, AI for Social Impact](https://arxiv.org/abs/2509.00891))
 - ChatThero: A Language Agent for Recovery Support ([Preprint, 2025](https://arxiv.org/abs/2508.20996))
@@ -53,39 +53,50 @@ Concretely, some areas I have been publishing on recently include:
 
 </details>
 
-- **2) Patient-facing NLP and personalization for understanding**
-  - *One-liner:* I build patient-facing systems, and I test if they improve understanding, not only text quality.
-  - DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://arxiv.org/abs/2509.07188))
-  - PaniniQA: Enhancing Patient Education Through Interactive Question Answering ([TACL 2023](https://aclanthology.org/2023.tacl-1.86/))
-  - Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://arxiv.org/abs/2509.05818))
-  - README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP ([EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.737/))
-  - MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning ([Preprint, 2025](https://arxiv.org/abs/2507.07419))
+<details open>
+<summary><strong>2) Patient-facing NLP and personalization for understanding</strong> — <em>One-liner:</em> I build patient-facing systems, and I test if they improve understanding, not only text quality.</summary>
 
-- **3) Agentic reasoning with retrieval, tools, and structured inference (including multimodal “multiple” settings)**
-  - *One-liner:* I build structured reasoning loops that combine planning, retrieval, memory, and “multiple” multimodal evidence.
-  - Medical Thinking with Multiple Images ([Under review, 2026](https://openreview.net/forum?id=h2p5eOFpcF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
-  - MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback ([NAACL 2025, Oral](https://aclanthology.org/2025.naacl-long.538/))
-  - PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning ([AAAI 2026](https://arxiv.org/abs/2509.22315))
-  - RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models ([ACL 2025](https://aclanthology.org/2025.acl-long.896/))
-  - JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional QA ([Preprint, 2024](https://arxiv.org/abs/2402.17887))
+- DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://arxiv.org/abs/2509.07188))
+- PaniniQA: Enhancing Patient Education Through Interactive Question Answering ([TACL 2023](https://aclanthology.org/2023.tacl-1.86/))
+- Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://arxiv.org/abs/2509.05818))
+- README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP ([EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.737/))
+- MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning ([Preprint, 2025](https://arxiv.org/abs/2507.07419))
 
-- **4) Optimization, feedback, and fine-grained evaluation for trustworthy LLMs**
-  - *One-liner:* I design training and evaluation that show where models fail, so fixes are specific and measurable.
-  - Improving Summarization with Human Edits ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.158/))
-  - SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization ([EMNLP 2024](https://aclanthology.org/2024.emnlp-main.1120/))
-  - Unveiling GPT-4V’s Hidden Challenges Behind High Accuracy on USMLE Questions: Observational Study ([JMIR 2025](https://www.jmir.org/2025/1/e65146/))
-  - From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations ([EMNLP 2025, Oral](https://arxiv.org/abs/2509.16584))
-  - Exploiting Tree Structure for Credit Assignment in RL Training of LLMs ([Preprint, 2025](https://arxiv.org/abs/2509.18314))
+</details>
 
-- **5) Data, benchmarks, and deployment-oriented clinical NLP**
-  - *One-liner:* I build datasets and pipelines that support scaling, testing, and real-world use in clinical NLP.
-  - MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework ([Preprint, 2024](https://arxiv.org/abs/2410.01553))
-  - NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes ([ACL Findings 2024](https://aclanthology.org/2024.findings-acl.901/))
-  - BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing ([JAMIA 2024](https://academic.oup.com/jamia/article/31/9/1821/7687618))
-  - Automated Identification of Eviction Status from Electronic Health Record Notes ([JAMIA 2023](https://academic.oup.com/jamia/article/30/8/1429/7172838))
-  - SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data ([Preprint, 2025](https://arxiv.org/abs/2507.07421))
-  - Development of a Surveillance System to Identify Incidence of Evictions Among Patients in Veterans Affairs Medical Centers Across the United States ([Journal of Community Health 2025](https://link.springer.com/article/10.1007/s10900-025-01491-5))
+<details open>
+<summary><strong>3) Agentic reasoning with retrieval, tools, and structured inference (including multimodal “multiple” settings)</strong> — <em>One-liner:</em> I build structured reasoning loops that combine planning, retrieval, memory, and “multiple” multimodal evidence.</summary>
 
+- Medical Thinking with Multiple Images ([Under review, 2026](https://openreview.net/forum?id=h2p5eOFpcF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)))
+- MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback ([NAACL 2025, Oral](https://aclanthology.org/2025.naacl-long.538/))
+- PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning ([AAAI 2026](https://arxiv.org/abs/2509.22315))
+- RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models ([ACL 2025](https://aclanthology.org/2025.acl-long.896/))
+- JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional QA ([Preprint, 2024](https://arxiv.org/abs/2402.17887))
+
+</details>
+
+<details open>
+<summary><strong>4) Optimization, feedback, and fine-grained evaluation for trustworthy LLMs</strong> — <em>One-liner:</em> I design training and evaluation that show where models fail, so fixes are specific and measurable.</summary>
+
+- Improving Summarization with Human Edits ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.158/))
+- SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization ([EMNLP 2024](https://aclanthology.org/2024.emnlp-main.1120/))
+- Unveiling GPT-4V’s Hidden Challenges Behind High Accuracy on USMLE Questions: Observational Study ([JMIR 2025](https://www.jmir.org/2025/1/e65146/))
+- From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations ([EMNLP 2025, Oral](https://arxiv.org/abs/2509.16584))
+- Exploiting Tree Structure for Credit Assignment in RL Training of LLMs ([Preprint, 2025](https://arxiv.org/abs/2509.18314))
+
+</details>
+
+<details open>
+<summary><strong>5) Data, benchmarks, and deployment-oriented clinical NLP</strong> — <em>One-liner:</em> I build datasets and pipelines that support scaling, testing, and real-world use in clinical NLP.</summary>
+
+- MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework ([Preprint, 2024](https://arxiv.org/abs/2410.01553))
+- NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes ([ACL Findings 2024](https://aclanthology.org/2024.findings-acl.901/))
+- BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing ([JAMIA 2024](https://academic.oup.com/jamia/article/31/9/1821/7687618))
+- Automated Identification of Eviction Status from Electronic Health Record Notes ([JAMIA 2023](https://academic.oup.com/jamia/article/30/8/1429/7172838))
+- SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data ([Preprint, 2025](https://arxiv.org/abs/2507.07421))
+- Development of a Surveillance System to Identify Incidence of Evictions Among Patients in Veterans Affairs Medical Centers Across the United States ([Journal of Community Health 2025](https://link.springer.com/article/10.1007/s10900-025-01491-5))
+
+</details>
 
 
 ### Service
@@ -100,4 +111,3 @@ Concretely, some areas I have been publishing on recently include:
   * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
   * *European Heart Journal – Digital Health*
 
-  
