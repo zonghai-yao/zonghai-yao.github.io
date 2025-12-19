@@ -36,18 +36,43 @@ I am a Ph.D. candidate in Computer Science at the University of Massachusetts Am
 
 Previously, I received my B.S. in Computer Science from Nankai University.
 
-My work focuses on three connected problems:
+
+
+
+
+<div style="padding:12px 14px; border:1px solid rgba(148,163,184,.35); border-radius:12px; background:rgba(148,163,184,.08); margin: 12px 0 14px 0;">
+  <div style="font-weight:800; margin-bottom:6px;">Research focus (3 pillars)</div>
+  <div style="opacity:.85;">My work focuses on three connected problems:</div>
+</div>
 
 <details markdown="1">
-  <summary><strong>1) Agents that think in high-stakes settings</strong></summary>
+  <summary>
+    <strong>1) Agents that think in high-stakes settings</strong>
+    <span style="margin-left:.45rem; font-size:.88em; opacity:.9;">
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(59,130,246,.18);">tool-augmented</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(16,185,129,.18);">evidence-based</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(245,158,11,.20);">guidelines & KG</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(168,85,247,.18);">multimodal</span>
+    </span>
+  </summary>
 
   <div markdown="1">
   A central focus is **agents that think in high-stakes settings**. I build LLM agents for **evidence-based clinical reasoning**, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses. I am also deeply interested in **multimodal medical agents in “multiple images” settings**—where “multiple” can mean **time** (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), **space** (3D volumes), and **modality** (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.
   </div>
 </details>
 
+
 <details markdown="1">
-  <summary><strong>2) Agents that communicate over long horizons</strong></summary>
+  <summary>
+    <strong>2) Agents that communicate over long horizons</strong>
+    <span style="margin-left:.45rem; font-size:.88em; opacity:.9;">
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(236,72,153,.18);">multi-session</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(34,197,94,.18);">adaptation</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(14,165,233,.18);">health literacy</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(249,115,22,.18);">safety</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(148,163,184,.22);">social pressure</span>
+    </span>
+  </summary>
 
   <div markdown="1">
   I also study **agents that communicate with patients and clinicians over long horizons**. I build multi-agent simulations for discharge education, chronic disease management, and recovery support, with a focus on **multi-session interactions** where goals unfold over days, weeks or months. I evaluate whether agents can maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational drift and social pressure.
@@ -55,7 +80,16 @@ My work focuses on three connected problems:
 </details>
 
 <details markdown="1">
-  <summary><strong>3) Methods to optimize, train, and stress-test agents</strong></summary>
+  <summary>
+    <strong>3) Methods to optimize, train, and stress-test think+communicate agents</strong>
+    <span style="margin-left:.45rem; font-size:.88em; opacity:.9;">
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(99,102,241,.18);">orchestration</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(16,185,129,.18);">data-centric</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(245,158,11,.20);">feedback learning</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(239,68,68,.16);">stress tests</span>
+      <span style="display:inline-block; padding:.05rem .45rem; margin:.12rem .25rem 0 0; border-radius:999px; background:rgba(14,165,233,.18);">fine-grained eval</span>
+    </span>
+  </summary>
 
   <div markdown="1">
   I develop **methods to optimize, train, and stress-test these agents**. On the system side, I design **test-time orchestration** loops (planning, retrieval, tool use, self-check) that make reasoning more structured and auditable. On the learning side, I use **data-centric pipelines** (expert annotation, human edits, synthetic data, hard-case mining) and **learning from feedback** (preference signals, outcome-verifiable objectives, and RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior. Across projects, I pair these with **fine-grained evaluation** that diagnoses failures at the step level and under distribution shift, so we can iterate on both models and agent policies.
@@ -63,7 +97,14 @@ My work focuses on three connected problems:
 </details>
 
 
-Concretely, some areas I have been publishing on recently include:
+
+<div style="height:1px; background:rgba(148,163,184,.30); margin: 16px 0;"></div>
+
+<div style="padding:12px 14px; border:1px solid rgba(249,115,22,.35); border-radius:12px; background:rgba(249,115,22,.08); margin: 12px 0 10px 0;">
+  <div style="font-weight:800; margin-bottom:6px;">Selected areas & recent publications</div>
+  <div style="opacity:.85;">Concretely, some areas I have been publishing on recently include:</div>
+</div>
+
 
 <details open markdown="1">
   <summary>
@@ -161,37 +202,34 @@ Concretely, some areas I have been publishing on recently include:
 
 
 
-<details open markdown="1">
-  <summary><strong>Service</strong></summary>
+### Service
 
+<details open markdown="1">
+  <summary><strong>Area Chair (ACL Rolling Review)</strong></summary>
+  <div markdown="1">
+  NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
+  </div>
+</details>
+
+<details markdown="1">
+  <summary><strong>Conference Reviewer (2023–present)</strong></summary>
+  <div markdown="1">
+  ICLR, NeurIPS, ICML, AAAI, ACL / EMNLP / NAACL / COLING / EACL (and related workshops)
+  </div>
+</details>
+
+<details markdown="1">
+  <summary><strong>Journal Reviewer (2022–present)</strong></summary>
   <div markdown="1">
 
-  <details open markdown="1">
-    <summary><strong>AI Confernece Area Chair</strong></summary>
-    <div markdown="1">
-    NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
-    </div>
-  </details>
-
-  <details markdown="1">
-    <summary><strong>AI Conference Reviewer (2023–present)</strong></summary>
-    <div markdown="1">
-    ICLR, NeurIPS, ICML, AAAI, ACL / EMNLP / NAACL / COLING / EACL (and related workshops)
-    </div>
-  </details>
-
-  <details markdown="1">
-    <summary><strong>Medical Journal Reviewer (2022–present)</strong></summary>
-    <div markdown="1">
-    * *npj Digital Medicine*, *npj Health Systems*, *Scientific Reports*
-    * *Journal of Medical Internet Research (JMIR)*, *Journal of the American Medical Informatics Association (JAMIA)*
-    * *Bioinformatics*, *Expert Systems with Applications*
-    * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
-    * *European Heart Journal – Digital Health*
-    </div>
-  </details>
+  * *npj Digital Medicine*, *npj Health Systems*, *Scientific Reports*
+  * *Journal of Medical Internet Research (JMIR)*, *Journal of the American Medical Informatics Association (JAMIA)*
+  * *Bioinformatics*, *Expert Systems with Applications*
+  * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
+  * *European Heart Journal – Digital Health*
 
   </div>
 </details>
+
 
 
