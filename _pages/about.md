@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 ---
 
@@ -32,7 +32,8 @@ announcements:
 </div>
 
 
-I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with Prof. Hong Yu in UMass BioNLP lab. I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. Previously, I received my B.S. in Computer Science from Nankai University.
+I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. Previously, I received my B.S. in Computer Science from Nankai University.
+
 
 My work focuses on three connected problems:
 
@@ -64,24 +65,7 @@ Concretely, some areas I have been publishing on recently include:
 
 <details open markdown="1">
   <summary>
-    <strong>2) Patient-facing NLP and personalization for understanding</strong><br/>
-    <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
-      I build patient-facing systems, and I test if they improve understanding, not only text quality.
-    </span>
-  </summary>
-
-  <div markdown="1">
-  - DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://arxiv.org/abs/2509.07188))
-  - PaniniQA: Enhancing Patient Education Through Interactive Question Answering ([TACL 2023](https://aclanthology.org/2023.tacl-1.86/))
-  - Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://arxiv.org/abs/2509.05818))
-  - README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP ([EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.737/))
-  - MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning ([Preprint, 2025](https://arxiv.org/abs/2507.07419))
-  </div>
-</details>
-
-<details open markdown="1">
-  <summary>
-    <strong>3) Agentic reasoning with retrieval, tools, and structured inference (including multimodal “multiple” settings)</strong><br/>
+    <strong>2) Agentic reasoning with retrieval, tools, and structured inference (including multimodal “multiple” settings)</strong><br/>
     <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
       I build structured reasoning loops that combine planning, retrieval, memory, and “multiple” multimodal evidence.
     </span>
@@ -96,7 +80,24 @@ Concretely, some areas I have been publishing on recently include:
   </div>
 </details>
 
-<details open markdown="1">
+<details markdown="1">
+  <summary>
+    <strong>3) Patient-facing NLP and personalization for understanding</strong><br/>
+    <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
+      I build patient-facing systems, and I test if they improve understanding, not only text quality.
+    </span>
+  </summary>
+
+  <div markdown="1">
+  - DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://arxiv.org/abs/2509.07188))
+  - PaniniQA: Enhancing Patient Education Through Interactive Question Answering ([TACL 2023](https://aclanthology.org/2023.tacl-1.86/))
+  - Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://arxiv.org/abs/2509.05818))
+  - README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP ([EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.737/))
+  - MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning ([Preprint, 2025](https://arxiv.org/abs/2507.07419))
+  </div>
+</details>
+
+<details markdown="1">
   <summary>
     <strong>4) Optimization, feedback, and fine-grained evaluation for trustworthy LLMs</strong><br/>
     <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
@@ -113,7 +114,7 @@ Concretely, some areas I have been publishing on recently include:
   </div>
 </details>
 
-<details open markdown="1">
+<details markdown="1">
   <summary>
     <strong>5) Data, benchmarks, and deployment-oriented clinical NLP</strong><br/>
     <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
