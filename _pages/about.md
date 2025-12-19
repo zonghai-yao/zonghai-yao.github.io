@@ -89,9 +89,9 @@ Concretely, some areas I have been publishing on recently include:
   </summary>
 
   <div markdown="1">
-  - DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://arxiv.org/abs/2509.07188))
+  - DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge ([EMNLP 2025](https://aclanthology.org/2025.emnlp-main.546/))
   - PaniniQA: Enhancing Patient Education Through Interactive Question Answering ([TACL 2023](https://aclanthology.org/2023.tacl-1.86/))
-  - Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://arxiv.org/abs/2509.05818))
+  - Chatbot To Help Patients Understand Their Health ([EMNLP Findings 2025](https://aclanthology.org/2025.findings-emnlp.351/))
   - README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP ([EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.737/))
   - MedReadCtrl: Personalizing Medical Text Generation with Readability-Controlled Instruction Learning ([Preprint, 2025](https://arxiv.org/abs/2507.07419))
   </div>
@@ -109,7 +109,7 @@ Concretely, some areas I have been publishing on recently include:
   - Improving Summarization with Human Edits ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.158/))
   - SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization ([EMNLP 2024](https://aclanthology.org/2024.emnlp-main.1120/))
   - Unveiling GPT-4V’s Hidden Challenges Behind High Accuracy on USMLE Questions: Observational Study ([JMIR 2025](https://www.jmir.org/2025/1/e65146/))
-  - From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations ([EMNLP 2025, Oral](https://arxiv.org/abs/2509.16584))
+  - From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations ([EMNLP 2025, Oral](https://aclanthology.org/2025.emnlp-main.548/))
   - Exploiting Tree Structure for Credit Assignment in RL Training of LLMs ([Preprint, 2025](https://arxiv.org/abs/2509.18314))
   </div>
 </details>

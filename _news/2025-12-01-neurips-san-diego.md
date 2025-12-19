@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✈️ will be in <b>San Diego</b> for <b>NeurIPS 2025</b> !!!
+✈️ I will be in <b>San Diego</b> for <b>NeurIPS 2025</b> with our whole group !!!

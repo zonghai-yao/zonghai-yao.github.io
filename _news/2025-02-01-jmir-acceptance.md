@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 <b>Zhichao</b> and <b>Zonghai</b> paper accepted at <b>Journal of Medical Internet Research</b> — Congratulations!
+🎉 ([One paper](https://www.jmir.org/2025/1/e65146/)) accepted at <b>Journal of Medical Internet Research</b>
