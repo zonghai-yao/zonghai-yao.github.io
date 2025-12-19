@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📚 (<b>PRIME</b> and <b>ChatCLIDS</b>) were accepted to <b>AAAI 2026</b> in <b>Main Technical</b> and <b>AI for Social Impact</b>!
+📚 <b>ChatCLIDS</b> and <b>PRIME</b> were accepted to <b>AAAI 2026</b> in <b>Main Technical</b> and <b>AI for Social Impact</b>!

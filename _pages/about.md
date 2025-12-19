@@ -32,8 +32,9 @@ announcements:
 </div>
 
 
-I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. Previously, I received my B.S. in Computer Science from Nankai University.
+I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. 
 
+Previously, I received my B.S. in Computer Science from Nankai University.
 
 My work focuses on three connected problems:
 
