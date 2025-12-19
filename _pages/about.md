@@ -32,81 +32,21 @@ announcements:
 </div>
 
 
-I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. 
-
-Previously, I received my B.S. in Computer Science from Nankai University.
-
+I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. Previously, I received my B.S. in Computer Science from Nankai University.
 
 
 <!-- =========================
      Research focus (3 pillars)
 ========================= -->
 
-<div style="padding:12px 14px; border:1px solid rgba(239,68,68,.22); border-radius:14px; background:rgba(239,68,68,.06); margin: 12px 0 12px 0;">
-  <div style="font-weight:800; margin-bottom:4px;">Research focus (3 pillars)</div>
-  <div style="opacity:.78;">My work focuses on three connected problems:</div>
-</div>
+My work focuses on three connected problems:
 
-<div style="padding:10px 12px; border:1px solid rgba(148,163,184,.22); border-radius:14px; background:rgba(148,163,184,.04); margin: 10px 0;">
-  <details>
-    <summary style="cursor:pointer;">
-      <strong>1) Agents that think in high-stakes settings</strong>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Tool-using reasoning</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">RAG + Memory</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Uncertainty-aware planning</span>
-      </span>
-    </summary>
-    <div style="margin-top:10px;">
-      <p>A central focus is <strong>agents that think in high-stakes settings</strong>. I build LLM agents for <strong>evidence-based clinical reasoning</strong>, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses.</p>
-      <p>I am also deeply interested in <strong>multimodal medical agents in “multiple images” settings</strong>—where “multiple” can mean <strong>time</strong> (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), <strong>space</strong> (3D volumes), and <strong>modality</strong> (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.</p>
-    </div>
-  </details>
-</div>
+1. A central focus is **agents that think in high-stakes settings**. I build LLM agents for **evidence-based clinical reasoning**, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses. I am also deeply interested in **multimodal medical agents in “multiple images” settings**—where “multiple” can mean **time** (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), **space** (3D volumes), and **modality** (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.
 
 
+2. I also study **agents that communicate with patients and clinicians over long horizons**. I build multi-agent simulations for discharge education, chronic disease management, and recovery support, with a focus on **multi-session interactions** where goals unfold over days, weeks or months. I evaluate whether agents can maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational drift and social pressure.
 
-<!-- Pillar 2 -->
-<div style="padding:10px 12px; border:1px solid rgba(148,163,184,.22); border-radius:14px; background:rgba(148,163,184,.04); margin: 10px 0;">
-  <details>
-    <summary style="cursor:pointer;">
-      <strong>2) Agents that communicate over long horizons</strong>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Long-horizon dialogue</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">User modeling</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Safety under drift</span>
-      </span>
-    </summary>
-    <div style="margin-top:10px;">
-      <p>I also study <strong>agents that communicate with patients and clinicians over long horizons</strong>. I build multi-agent simulations for discharge education, chronic disease management, and recovery support, with a focus on <strong>multi-session interactions</strong> where goals unfold over days, weeks or months.</p>
-      <p>I evaluate whether agents can maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational drift and social pressure.</p>
-    </div>
-  </details>
-</div>
-
-<!-- Pillar 3 -->
-<div style="padding:10px 12px; border:1px solid rgba(148,163,184,.22); border-radius:14px; background:rgba(148,163,184,.04); margin: 10px 0 14px 0;">
-  <details>
-    <summary style="cursor:pointer;">
-      <strong>3) Methods to optimize, train, and stress-test think+communicate agents</strong>
-      <span style="margin-left:.50rem; font-size:.88em; opacity:.95;">
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Test-time orchestration</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">Data-centric alignment</span>
-        <span style="display:inline-block; padding:.08rem .50rem; margin:.10rem .30rem 0 0; border-radius:999px; border:1px solid rgba(148,163,184,.28); background:rgba(148,163,184,.10);">RL in simulation</span>
-      </span>
-    </summary>
-    <div style="margin-top:10px;">
-      <p>I develop <strong>methods to optimize, train, and stress-test these agents</strong>. On the system side, I design <strong>test-time orchestration</strong> loops (planning, retrieval, tool use, self-check) that make reasoning more structured and auditable.</p>
-      <p>On the learning side, I use <strong>data-centric pipelines</strong> (expert annotation, human edits, synthetic data, hard-case mining) and <strong>learning from feedback</strong> (preference signals, outcome-verifiable objectives, and RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior.</p>
-      <p>Across projects, I pair these with <strong>fine-grained evaluation</strong> that diagnoses failures at the step level and under distribution shift, so we can iterate on both models and agent policies.</p>
-    </div>
-  </details>
-</div>
-
-
-<div style="height:1px; background:rgba(148,163,184,.26); margin: 18px 0;"></div>
-
-
+3. I develop **methods to optimize, train, and stress-test these agents**. On the system side, I design **test-time orchestration** loops (planning, retrieval, tool use, self-check) that make reasoning more structured and auditable. On the learning side, I use **data-centric pipelines** (expert annotation, human edits, synthetic data, hard-case mining) and **learning from feedback** (preference signals, outcome-verifiable objectives, and RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior. Across projects, I pair these with **fine-grained evaluation** that diagnoses failures at the step level and under distribution shift, so we can iterate on both models and agent policies.
 
 
 <!-- ===============================
@@ -248,7 +188,7 @@ Previously, I received my B.S. in Computer Science from Nankai University.
 
 ### Service
 
-<details open markdown="1">
+<details markdown="1">
   <summary><strong>AI Conference Area Chair (2025–present)</strong></summary>
   <div markdown="1">
   NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
