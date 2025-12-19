@@ -21,9 +21,15 @@ announcements:
 
 ---
 
-**I am currently on the academic job market. Please feel free to contact me.**
+<div style="padding:10px 14px; border-left:4px solid #f97316; background: rgba(249,115,22,0.12); border-radius:10px; margin: 10px 0;">
+  <span style="color:#f97316; font-weight:700;">
+    I am currently on the academic job market. Please feel free to contact me.
+  </span>
+</div>
 
 I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows.
+
+Previously, I received my B.S. in Computer Science from Nankai University, and I am currently completing my Ph.D. at UMass Amherst.
 
 My work focuses on three connected problems:
 
@@ -38,11 +44,14 @@ My work focuses on three connected problems:
 
 Concretely, some areas I have been publishing on recently include:
 
-- **1) Multi-agent interaction and long-horizon dialogue**
-  - *One-liner:* I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.
-  - ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care ([AAAI 2026, AI for Social Impact](https://arxiv.org/abs/2509.00891))
-  - ChatThero: A Language Agent for Recovery Support ([Preprint, 2025](https://arxiv.org/abs/2508.20996))
-  - A Survey on LLM-based Multi-Agent AI Hospital ([Preprint, 2025](https://osf.io/preprints/osf/bv5sg_v1))
+<details open>
+<summary><b>1) Multi-agent interaction and long-horizon dialogue</b> — I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.</summary>
+
+- ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care ([AAAI 2026, AI for Social Impact](https://arxiv.org/abs/2509.00891))
+- ChatThero: A Language Agent for Recovery Support ([Preprint, 2025](https://arxiv.org/abs/2508.20996))
+- A Survey on LLM-based Multi-Agent AI Hospital ([Preprint, 2025](https://osf.io/preprints/osf/bv5sg_v1))
+
+</details>
 
 - **2) Patient-facing NLP and personalization for understanding**
   - *One-liner:* I build patient-facing systems, and I test if they improve understanding, not only text quality.
@@ -91,4 +100,4 @@ Concretely, some areas I have been publishing on recently include:
   * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
   * *European Heart Journal – Digital Health*
 
-Previously, I received my B.S. in Computer Science from Nankai University, and I am currently completing my Ph.D. at UMass Amherst.
+  
