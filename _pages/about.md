@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -10,7 +11,7 @@ profile:
   address: >
 
 news: true
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -19,24 +20,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-
-```yaml
----
-layout: about
-title: about
-permalink: /
-
-profile:
-  align: right
-  image: headshot_new.jpg
-  image_circular: false
-  address: >
-
-news: true
-selected_papers: false
-social: true
----
-```
 
 **I am currently on the academic job market. Please feel free to contact me.**
 
@@ -109,6 +92,3 @@ Concretely, some areas I have been publishing on recently include:
   * *European Heart Journal – Digital Health*
 
 Previously, I received my B.S. in Computer Science from Nankai University, and I am currently completing my Ph.D. at UMass Amherst.
-
-```
-```
