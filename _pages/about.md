@@ -38,13 +38,29 @@ Previously, I received my B.S. in Computer Science from Nankai University.
 
 My work focuses on three connected problems:
 
-1. A central focus is **agents that think in high-stakes settings**. I build LLM agents for **evidence-based clinical reasoning**, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses. I am also deeply interested in **multimodal medical agents in “multiple images” settings**—where “multiple” can mean **time** (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), **space** (3D volumes), and **modality** (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.
+<details markdown="1">
+  <summary><strong>1) Agents that think in high-stakes settings</strong></summary>
 
+  <div markdown="1">
+  A central focus is **agents that think in high-stakes settings**. I build LLM agents for **evidence-based clinical reasoning**, where models plan, retrieve guidelines or knowledge graphs, and justify decisions with verifiable support rather than fluent guesses. I am also deeply interested in **multimodal medical agents in “multiple images” settings**—where “multiple” can mean **time** (longitudinal imaging across a patient’s care journey, or video such as surgical procedures), **space** (3D volumes), and **modality** (e.g., X-ray, CT, MRI, polysomnography). My goal is to develop agents that can reason over these heterogeneous streams in a unified, step-by-step way.
+  </div>
+</details>
 
-2. I also study **agents that communicate with patients and clinicians over long horizons**. I build multi-agent simulations for discharge education, chronic disease management, and recovery support, with a focus on **multi-session interactions** where goals unfold over days, weeks or months. I evaluate whether agents can maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational drift and social pressure.
+<details markdown="1">
+  <summary><strong>2) Agents that communicate over long horizons</strong></summary>
 
-3. I develop **methods to optimize, train, and stress-test these agents**. On the system side, I design **test-time orchestration** loops (planning, retrieval, tool use, self-check) that make reasoning more structured and auditable. On the learning side, I use **data-centric pipelines** (expert annotation, human edits, synthetic data, hard-case mining) and **learning from feedback** (preference signals, outcome-verifiable objectives, and RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior. Across projects, I pair these with **fine-grained evaluation** that diagnoses failures at the step level and under distribution shift, so we can iterate on both models and agent policies.
+  <div markdown="1">
+  I also study **agents that communicate with patients and clinicians over long horizons**. I build multi-agent simulations for discharge education, chronic disease management, and recovery support, with a focus on **multi-session interactions** where goals unfold over days, weeks or months. I evaluate whether agents can maintain state, adapt explanations to health literacy and emotion, and remain safe and helpful under realistic conversational drift and social pressure.
+  </div>
+</details>
 
+<details markdown="1">
+  <summary><strong>3) Methods to optimize, train, and stress-test agents</strong></summary>
+
+  <div markdown="1">
+  I develop **methods to optimize, train, and stress-test these agents**. On the system side, I design **test-time orchestration** loops (planning, retrieval, tool use, self-check) that make reasoning more structured and auditable. On the learning side, I use **data-centric pipelines** (expert annotation, human edits, synthetic data, hard-case mining) and **learning from feedback** (preference signals, outcome-verifiable objectives, and RL-style training in simulation) to improve faithfulness, robustness, and long-horizon behavior. Across projects, I pair these with **fine-grained evaluation** that diagnoses failures at the step level and under distribution shift, so we can iterate on both models and agent policies.
+  </div>
+</details>
 
 
 Concretely, some areas I have been publishing on recently include:
@@ -145,15 +161,37 @@ Concretely, some areas I have been publishing on recently include:
 
 
 
-### Service
+<details open markdown="1">
+  <summary><strong>Service</strong></summary>
 
-* **Area Chair (ACL Rolling Review):** NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
-* **Conference Reviewer (2023–present):** ICLR, NeurIPS, ICML, AAAI, ACL / EMNLP / NAACL / COLING / EACL (and related workshops)
-* **Journal Reviewer (2022–present):**
+  <div markdown="1">
 
-  * *npj Digital Medicine*, *npj Health Systems*, *Scientific Reports*
-  * *Journal of Medical Internet Research (JMIR)*, *Journal of the American Medical Informatics Association (JAMIA)*
-  * *Bioinformatics*, *Expert Systems with Applications*
-  * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
-  * *European Heart Journal – Digital Health*
+  <details open markdown="1">
+    <summary><strong>AI Confernece Area Chair</strong></summary>
+    <div markdown="1">
+    NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
+    </div>
+  </details>
+
+  <details markdown="1">
+    <summary><strong>AI Conference Reviewer (2023–present)</strong></summary>
+    <div markdown="1">
+    ICLR, NeurIPS, ICML, AAAI, ACL / EMNLP / NAACL / COLING / EACL (and related workshops)
+    </div>
+  </details>
+
+  <details markdown="1">
+    <summary><strong>Medical Journal Reviewer (2022–present)</strong></summary>
+    <div markdown="1">
+    * *npj Digital Medicine*, *npj Health Systems*, *Scientific Reports*
+    * *Journal of Medical Internet Research (JMIR)*, *Journal of the American Medical Informatics Association (JAMIA)*
+    * *Bioinformatics*, *Expert Systems with Applications*
+    * *BMC Medical Informatics and Decision Making*, *BMC Medical Research Methodology*
+    * *European Heart Journal – Digital Health*
+    </div>
+  </details>
+
+  </div>
+</details>
+
 
