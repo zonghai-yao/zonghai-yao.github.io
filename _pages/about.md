@@ -55,6 +55,22 @@ Concretely, some areas I have been publishing on recently include:
 
 </details>
 
+<details open markdown="1">
+  <summary>
+    <strong>1) Multi-agent interaction and long-horizon dialogue</strong><br/>
+    <span style="display:block; margin-top:.2rem; font-size:.92em; opacity:.78;">
+      I use multi-agent simulation to study long-horizon behavior, social pressure, and strategy.
+    </span>
+  </summary>
+
+  <div markdown="1">
+  - ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care ([AAAI 2026, AI for Social Impact](https://arxiv.org/abs/2509.00891))
+  - ChatThero: A Language Agent for Recovery Support ([Preprint, 2025](https://arxiv.org/abs/2508.20996))
+  - A Survey on LLM-based Multi-Agent AI Hospital ([Preprint, 2025](https://osf.io/preprints/osf/bv5sg_v1))
+  </div>
+</details>
+
+
 <details open>
 <summary><strong>2) Patient-facing NLP and personalization for understanding</strong> — <em>One-liner:</em> I build patient-facing systems, and I test if they improve understanding, not only text quality.</summary>
 
