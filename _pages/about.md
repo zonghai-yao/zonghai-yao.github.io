@@ -214,5 +214,11 @@ My work focuses on three connected problems:
   </div>
 </details>
 
+<details markdown="1">
+  <summary><strong>AI Conference Session Chair (2025–present)</strong></summary>
+  <div markdown="1">
+  AACL ARR (2025)
+  </div>
+
 
 

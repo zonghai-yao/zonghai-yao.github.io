@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 [One paper](https://www.jmir.org/2025/1/e65146/) accepted at <b>Journal of Medical Internet Research</b>.
+🎉 [Unveiling GPT-4V's hidden challenges behind high accuracy on USMLE questions: Observational Study](https://www.jmir.org/2025/1/e65146/) was accepted for publication in <b>Journal of Medical Internet Research</b>.
