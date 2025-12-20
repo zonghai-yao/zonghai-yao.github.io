@@ -17,8 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  limit: 30 # leave blank to include all the news in the `_news` folder
 ---
 
 <div style="padding:10px 14px; border-left:4px solid #f97316; background: rgba(249,115,22,0.12); border-radius:10px; margin: 10px 0;">
