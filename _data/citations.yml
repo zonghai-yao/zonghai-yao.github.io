@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-14'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
     title: 'Association between PTSD and health-related social needs in US Veterans: an NLP analysis using Veterans Health Administration Data'
     year: '2025'
   oVYZ904AAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: Zero-shot entity linking with efficient long range sequence modeling
     year: '2020'
   oVYZ904AAAAJ:3s1wT3WcHBgC:
@@ -18,7 +18,7 @@ papers:
     title: Extracting biomedical factual knowledge using pretrained language model and electronic health record context
     year: '2023'
   oVYZ904AAAAJ:5nxA0vEk-isC:
-    citations: 21
+    citations: 22
     title: Improving Summarization with Human Edits
     year: '2023'
   oVYZ904AAAAJ:70eg2SAEIzsC:
@@ -70,7 +70,7 @@ papers:
     title: 'ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care'
     year: '2025'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
-    citations: 68
+    citations: 69
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:NhqRSupF_l8C:
@@ -82,7 +82,7 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
-    citations: 34
+    citations: 35
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
@@ -90,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 17
+    citations: 18
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -110,7 +110,7 @@ papers:
     title: 'MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework'
     year: '2024'
   oVYZ904AAAAJ:YOwf2qJgpHMC:
-    citations: 78
+    citations: 81
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:_FxGoFyzp5QC:
@@ -118,7 +118,7 @@ papers:
     title: Revisiting the Architectures like Pointer Networks to Efficiently Improve the Next Word Distribution, Summarization Factuality, and Beyond
     year: '2023'
   oVYZ904AAAAJ:_Qo2XoVZTnwC:
-    citations: 3
+    citations: 4
     title: 'UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt--A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis'
     year: '2024'
   oVYZ904AAAAJ:_kc_bZDykSQC:
@@ -126,7 +126,7 @@ papers:
     title: Large Language Models are In-context Teachers for Knowledge Reasoning
     year: '2024'
   oVYZ904AAAAJ:_xSYboBqXhAC:
-    citations: 35
+    citations: 36
     title: 'Paniniqa: Enhancing patient education through interactive question answering'
     year: '2023'
   oVYZ904AAAAJ:b0M2c_1WBrUC:
