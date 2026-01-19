@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-19'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Improving Summarization with Human Edits
     year: '2023'
   oVYZ904AAAAJ:70eg2SAEIzsC:
-    citations: 79
+    citations: 81
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:7PzlFSSx8tAC:
@@ -70,7 +70,7 @@ papers:
     title: 'ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care'
     year: '2025'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
-    citations: 69
+    citations: 70
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:NhqRSupF_l8C:
@@ -90,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 18
+    citations: 19
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -98,7 +98,7 @@ papers:
     title: Do Clinicians Know How to Prompt? The Need for Automatic Prompt Optimization Help in Clinical Note Generation
     year: '2024'
   oVYZ904AAAAJ:UxriW0iASnsC:
-    citations: 1
+    citations: 3
     title: Exploiting Tree Structure for Credit Assignment in RL Training of LLMs
     year: '2025'
   oVYZ904AAAAJ:WbkHhVStYXYC:
@@ -110,7 +110,7 @@ papers:
     title: 'MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework'
     year: '2024'
   oVYZ904AAAAJ:YOwf2qJgpHMC:
-    citations: 81
+    citations: 82
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:_FxGoFyzp5QC:
@@ -126,7 +126,7 @@ papers:
     title: Large Language Models are In-context Teachers for Knowledge Reasoning
     year: '2024'
   oVYZ904AAAAJ:_xSYboBqXhAC:
-    citations: 36
+    citations: 37
     title: 'Paniniqa: Enhancing patient education through interactive question answering'
     year: '2023'
   oVYZ904AAAAJ:b0M2c_1WBrUC:
