@@ -87,7 +87,7 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
-        <li>Medical Thinking with Multiple Images (<a href="https://openreview.net/forum?id=h2p5eOFpcF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener">Under review, 2026</a>)</li>
+        <li>Medical Thinking with Multiple Images (<a href="https://openreview.net/forum?id=h2p5eOFpcF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener">ICLR, 2026</a>)</li>
         <li>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback (<a href="https://aclanthology.org/2025.naacl-long.538/" target="_blank" rel="noopener">NAACL 2025, Oral</a>)</li>
         <li>PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning (<a href="https://arxiv.org/abs/2509.22315" target="_blank" rel="noopener">AAAI 2026</a>)</li>
         <li>RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models (<a href="https://aclanthology.org/2025.acl-long.896/" target="_blank" rel="noopener">ACL 2025</a>)</li>
@@ -150,7 +150,7 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
-        <li>MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework (<a href="https://arxiv.org/abs/2410.01553" target="_blank" rel="noopener">Preprint, 2024</a>)</li>
+        <li>MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework (<a href="https://arxiv.org/abs/2410.01553" target="_blank" rel="noopener">EACL, 2026</a>)</li>
         <li>NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes (<a href="https://aclanthology.org/2024.findings-acl.901/" target="_blank" rel="noopener">ACL Findings 2024</a>)</li>
         <li>BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing (<a href="https://academic.oup.com/jamia/article/31/9/1821/7687618" target="_blank" rel="noopener">JAMIA 2024</a>)</li>
         <li>Automated Identification of Eviction Status from Electronic Health Record Notes (<a href="https://academic.oup.com/jamia/article/30/8/1429/7172838" target="_blank" rel="noopener">JAMIA 2023</a>)</li>
