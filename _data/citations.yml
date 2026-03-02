@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-02'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Improving Summarization with Human Edits
     year: '2023'
   oVYZ904AAAAJ:5ugPr518TE4C:
-    citations: 2
+    citations: 3
     title: 'LocalTweets to LocalHealth: A Mental Health Surveillance Framework Based on Twitter Data'
     year: '2024'
   oVYZ904AAAAJ:9vf0nzSNQJEC:
@@ -61,6 +61,10 @@ papers:
     citations: 0
     title: 'ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care'
     year: '2026'
+  oVYZ904AAAAJ:N5tVd3kTz84C:
+    citations: 1
+    title: 'MedCOD: Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework'
+    year: '2025'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
     citations: 75
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
@@ -74,11 +78,11 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 90
+    citations: 92
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
-    citations: 36
+    citations: 38
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
@@ -86,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 30
+    citations: 33
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -98,13 +102,17 @@ papers:
     title: Exploiting Tree Structure for Credit Assignment in RL Training of LLMs
     year: '2025'
   oVYZ904AAAAJ:Y5dfb0dijaUC:
-    citations: 7
+    citations: 8
     title: 'RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs in Medicine'
     year: '2024'
   oVYZ904AAAAJ:YFjsv_pBGBYC:
-    citations: 33
+    citations: 34
     title: 'MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills'
     year: '2026'
+  oVYZ904AAAAJ:ZuybSZzF8UAC:
+    citations: 0
+    title: 'ChatThero: An LLM-Supported Chatbot for Behavior Change and Therapeutic Support in Addiction Recovery'
+    year: '2025'
   oVYZ904AAAAJ:_B80troHkn4C:
     citations: 24
     title: Extracting biomedical factual knowledge using pretrained language model and electronic health record context
