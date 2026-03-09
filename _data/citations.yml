@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-09'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Zero-shot entity linking with efficient long range sequence modeling
     year: '2020'
   oVYZ904AAAAJ:3s1wT3WcHBgC:
-    citations: 23
+    citations: 24
     title: A survey on llm-based multi-agent ai hospital
     year: '2025'
   oVYZ904AAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: The impact of preprint servers in the formation of novel ideas
     year: '2020'
   oVYZ904AAAAJ:AXPGKjj_ei8C:
-    citations: 11
+    citations: 12
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
@@ -49,12 +49,16 @@ papers:
     citations: 21
     title: 'SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization'
     year: '2024'
+  oVYZ904AAAAJ:JQOojiI6XY0C:
+    citations: 0
+    title: 'TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents'
+    year: '2026'
   oVYZ904AAAAJ:JV2RwH3_ST0C:
     citations: 70
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
-    citations: 87
+    citations: 89
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:KxtntwgDAa4C:
@@ -70,7 +74,7 @@ papers:
     title: 'MedCOD: Enhancing English-to-Spanish Medical Translation of Large Language Models Using Enriched Chain-of-Dictionary Framework'
     year: '2025'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
-    citations: 75
+    citations: 76
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:NhqRSupF_l8C:
@@ -82,7 +86,7 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 94
+    citations: 93
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
@@ -106,7 +110,7 @@ papers:
     title: 'SynthEHR-eviction: enhancing eviction SDoH detection with LLM-augmented synthetic EHR data'
     year: '2026'
   oVYZ904AAAAJ:UxriW0iASnsC:
-    citations: 3
+    citations: 4
     title: Exploiting Tree Structure for Credit Assignment in RL Training of LLMs
     year: '2025'
   oVYZ904AAAAJ:Y5dfb0dijaUC:
@@ -138,7 +142,7 @@ papers:
     title: 'Paniniqa: Enhancing patient education through interactive question answering'
     year: '2023'
   oVYZ904AAAAJ:fPk4N6BV_jEC:
-    citations: 16
+    citations: 17
     title: 'MedReadCtrl: Personalizing medical text generation with readability-controlled instruction learning'
     year: '2025'
   oVYZ904AAAAJ:geHnlv5EZngC:
@@ -166,7 +170,7 @@ papers:
     title: Development of a Surveillance System to Identify Incidence of Evictions Among Patients in Veterans Affairs Medical Centers Across the United States
     year: '2025'
   oVYZ904AAAAJ:tkaPQYYpVKoC:
-    citations: 14
+    citations: 15
     title: Context variance evaluation of pretrained language models for prompt-based biomedical knowledge probing
     year: '2023'
   oVYZ904AAAAJ:u5HHmVD_uO8C:
