@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-11'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -54,7 +54,7 @@ papers:
     title: 'TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents'
     year: '2026'
   oVYZ904AAAAJ:JV2RwH3_ST0C:
-    citations: 70
+    citations: 71
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
@@ -90,7 +90,7 @@ papers:
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
-    citations: 38
+    citations: 39
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
@@ -98,7 +98,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 34
+    citations: 35
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
