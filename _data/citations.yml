@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-13'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -58,7 +58,7 @@ papers:
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
-    citations: 89
+    citations: 90
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:KxtntwgDAa4C:
@@ -146,7 +146,7 @@ papers:
     title: 'MedReadCtrl: Personalizing medical text generation with readability-controlled instruction learning'
     year: '2025'
   oVYZ904AAAAJ:geHnlv5EZngC:
-    citations: 0
+    citations: 1
     title: Medical thinking with multiple images
     year: '2026'
   oVYZ904AAAAJ:iH-uZ7U-co4C:
@@ -186,7 +186,7 @@ papers:
     title: 'TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs'
     year: '2024'
   oVYZ904AAAAJ:xtRiw3GOFMkC:
-    citations: 2
+    citations: 3
     title: 'DischargeSim: A Simulation Benchmark for Educational Doctor-Patient Communication at Discharge'
     year: '2025'
   oVYZ904AAAAJ:zYLM7Y9cAGgC:
