@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-04-06'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -14,11 +14,11 @@ papers:
     title: Zero-shot entity linking with efficient long range sequence modeling
     year: '2020'
   oVYZ904AAAAJ:3s1wT3WcHBgC:
-    citations: 24
+    citations: 26
     title: A survey on llm-based multi-agent ai hospital
     year: '2025'
   oVYZ904AAAAJ:5nxA0vEk-isC:
-    citations: 24
+    citations: 25
     title: Improving Summarization with Human Edits
     year: '2023'
   oVYZ904AAAAJ:5ugPr518TE4C:
@@ -38,7 +38,7 @@ papers:
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
-    citations: 2
+    citations: 3
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
   oVYZ904AAAAJ:HoB7MX3m0LUC:
@@ -54,11 +54,11 @@ papers:
     title: 'TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents'
     year: '2026'
   oVYZ904AAAAJ:JV2RwH3_ST0C:
-    citations: 71
+    citations: 75
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
-    citations: 90
+    citations: 97
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:KxtntwgDAa4C:
@@ -66,7 +66,7 @@ papers:
     title: 'ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care'
     year: '2026'
   oVYZ904AAAAJ:LjlpjdlvIbIC:
-    citations: 1
+    citations: 2
     title: Iterative Critique-Refine Framework for Enhancing LLM Personalization
     year: '2025'
   oVYZ904AAAAJ:N5tVd3kTz84C:
@@ -82,11 +82,11 @@ papers:
     title: Chatbot To Help Patients Understand Their Health
     year: '2025'
   oVYZ904AAAAJ:O3NaXMp0MMsC:
-    citations: 15
+    citations: 17
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 93
+    citations: 94
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
@@ -94,11 +94,11 @@ papers:
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
-    citations: 24
+    citations: 25
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 35
+    citations: 40
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -118,7 +118,7 @@ papers:
     title: 'RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs in Medicine'
     year: '2024'
   oVYZ904AAAAJ:YFjsv_pBGBYC:
-    citations: 35
+    citations: 38
     title: 'MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills'
     year: '2026'
   oVYZ904AAAAJ:ZuybSZzF8UAC:
@@ -138,15 +138,15 @@ papers:
     title: Large Language Models are In-context Teachers for Knowledge Reasoning
     year: '2024'
   oVYZ904AAAAJ:_xSYboBqXhAC:
-    citations: 39
+    citations: 42
     title: 'Paniniqa: Enhancing patient education through interactive question answering'
     year: '2023'
   oVYZ904AAAAJ:fPk4N6BV_jEC:
-    citations: 17
+    citations: 18
     title: 'MedReadCtrl: Personalizing medical text generation with readability-controlled instruction learning'
     year: '2025'
   oVYZ904AAAAJ:geHnlv5EZngC:
-    citations: 1
+    citations: 2
     title: Medical thinking with multiple images
     year: '2026'
   oVYZ904AAAAJ:iH-uZ7U-co4C:
@@ -158,7 +158,7 @@ papers:
     title: 'DermPrompt: A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis'
     year: '2024'
   oVYZ904AAAAJ:q3oQSFYPqjQC:
-    citations: 3
+    citations: 4
     title: 'From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations'
     year: '2025'
   oVYZ904AAAAJ:qjMakFHDy7sC:
@@ -174,7 +174,7 @@ papers:
     title: Context variance evaluation of pretrained language models for prompt-based biomedical knowledge probing
     year: '2023'
   oVYZ904AAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 13
     title: Named entity location prediction combining twitter and web
     year: '2020'
   oVYZ904AAAAJ:uWQEDVKXjbEC:
@@ -190,6 +190,6 @@ papers:
     title: 'DischargeSim: A Simulation Benchmark for Educational Doctor-Patient Communication at Discharge'
     year: '2025'
   oVYZ904AAAAJ:zYLM7Y9cAGgC:
-    citations: 28
+    citations: 29
     title: 'MedJEx: A Medical Jargon Extraction Model with Wiki''s Hyperlink Span and Contextualized Masked Language Model Score'
     year: '2022'
