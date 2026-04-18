@@ -20,7 +20,7 @@ announcements:
   limit: 30 # leave blank to include all the news in the `_news` folder
 ---
 
-<div style="padding:10px 14px; border-left:4px solid #f97316; background: rgba(249,115,22,0.12); border-radius:10px; margin: 10px 0;">
+<!-- <div style="padding:10px 14px; border-left:4px solid #f97316; background: rgba(249,115,22,0.12); border-radius:10px; margin: 10px 0;">
   <span style="color:#f97316; font-weight:700;">
     I will be on the job market starting in Fall 2025.
   </span>
@@ -28,10 +28,10 @@ announcements:
     If you believe I might be a good fit for your institution or organization, I’d love to connect—please feel free to reach out at
     <span style="font-weight:700;">zonghaiyao [at] umass [dot] edu</span>.
   </span>
-</div>
+</div> -->
 
 
-I am a Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected May 2026), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. Previously, I received my B.S. in Computer Science from Nankai University.
+I am a final year Ph.D. candidate in Computer Science at the University of Massachusetts Amherst (expected 2026 Summer), working with [Prof. Hong Yu](https://scholar.google.com/citations?user=TyXe64wAAAAJ&hl=en) in the [UMass BioNLP Lab](https://bio-nlp.github.io/). I work at the intersection of AI, NLP, and health. My long-term goal is an **“AI Hospital”**: a set of reliable AI agents that can **think** and also **communicate** across real clinical workflows. In this vision, agents are not standalone chatbots; they are tool-using teammates that can reason over evolving patient context, coordinate across roles, and stay verifiably grounded in clinical evidence. I am especially excited about promising directions like long-horizon agent learning in realistic simulations, multimodal clinical world models, and evaluation that ties model behavior to safety- and outcome-relevant signals. Previously, I received my B.S. in Computer Science from Nankai University.
 
 
 <!-- =========================
@@ -68,9 +68,9 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
+      	<li>LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals (<a href="https://www.researchgate.net/publication/399102225_A_Survey_on_LLM-based_Multi-Agent_AI_Hospital" target="_blank" rel="noopener">ACL, 2026</a>)</li>
         <li>ChatCLIDS: Simulating Persuasive AI Dialogues to Promote Closed-Loop Insulin Adoption in Type 1 Diabetes Care (<a href="https://arxiv.org/abs/2509.00891" target="_blank" rel="noopener">AAAI 2026, AI for Social Impact</a>)</li>
         <li>ChatThero: A Language Agent for Recovery Support (<a href="https://arxiv.org/abs/2508.20996" target="_blank" rel="noopener">Preprint, 2025</a>)</li>
-        <li>A Survey on LLM-based Multi-Agent AI Hospital (<a href="https://osf.io/preprints/osf/bv5sg_v1" target="_blank" rel="noopener">Preprint, 2025</a>)</li>
       </ul>
     </div>
   </details>
@@ -87,7 +87,7 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
-        <li>Medical Thinking with Multiple Images (<a href="https://openreview.net/forum?id=h2p5eOFpcF&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener">ICLR, 2026</a>)</li>
+        <li>Medical Thinking with Multiple Images (<a href="https://openreview.net/forum?id=h2p5eOFpcF)" target="_blank" rel="noopener">ICLR, 2026</a>)</li>
         <li>MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback (<a href="https://aclanthology.org/2025.naacl-long.538/" target="_blank" rel="noopener">NAACL 2025, Oral</a>)</li>
         <li>PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning (<a href="https://arxiv.org/abs/2509.22315" target="_blank" rel="noopener">AAAI 2026</a>)</li>
         <li>RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models (<a href="https://aclanthology.org/2025.acl-long.896/" target="_blank" rel="noopener">ACL 2025</a>)</li>
@@ -108,6 +108,7 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
+      	<li>Rethinking Patient Education as Multi-turn Multi-modal Interaction (<a href="https://arxiv.org/pdf/2604.14656" target="_blank" rel="noopener">Preprint 2026</a>)</li>
         <li>DischargeSim: A Simulation Benchmark for Educational Doctor–Patient Communication at Discharge (<a href="https://aclanthology.org/2025.emnlp-main.546/" target="_blank" rel="noopener">EMNLP 2025</a>)</li>
         <li>PaniniQA: Enhancing Patient Education Through Interactive Question Answering (<a href="https://aclanthology.org/2023.tacl-1.86/" target="_blank" rel="noopener">TACL 2023</a>)</li>
         <li>Chatbot To Help Patients Understand Their Health (<a href="https://aclanthology.org/2025.findings-emnlp.351/" target="_blank" rel="noopener">EMNLP Findings 2025</a>)</li>
@@ -133,7 +134,8 @@ My work focuses on three connected problems:
         <li>SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization (<a href="https://aclanthology.org/2024.emnlp-main.1120/" target="_blank" rel="noopener">EMNLP 2024</a>)</li>
         <li>Unveiling GPT-4V’s Hidden Challenges Behind High Accuracy on USMLE Questions: Observational Study (<a href="https://www.jmir.org/2025/1/e65146/" target="_blank" rel="noopener">JMIR 2025</a>)</li>
         <li>From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations (<a href="https://aclanthology.org/2025.emnlp-main.548/" target="_blank" rel="noopener">EMNLP 2025, Oral</a>)</li>
-        <li>Exploiting Tree Structure for Credit Assignment in RL Training of LLMs (<a href="https://arxiv.org/abs/2509.18314" target="_blank" rel="noopener">Preprint, 2025</a>)</li>
+        <li>Exploiting Tree Structure for Credit Assignment in RL Training of LLMs (<a href="https://arxiv.org/abs/2509.18314" target="_blank" rel="noopener">ACL Findings, 2026</a>)</li>
+        <li>Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty (<a href="https://aclanthology.org/2026.eacl-long.291/" target="_blank" rel="noopener">EACL, 2026</a>)</li>
       </ul>
     </div>
   </details>
@@ -150,11 +152,11 @@ My work focuses on three connected problems:
     </summary>
     <div style="margin-top:10px;">
       <ul style="margin:0; padding-left:1.1rem;">
-        <li>MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework (<a href="https://arxiv.org/abs/2410.01553" target="_blank" rel="noopener">EACL, 2026</a>)</li>
+        <li>MedQA-CS: Benchmarking Large Language Models Clinical Skills Using an AI-SCE Framework (<a href="https://aclanthology.org/2026.eacl-long.292/" target="_blank" rel="noopener">EACL, 2026</a>)</li>
         <li>NoteChat: A Dataset of Synthetic Doctor-Patient Conversations Conditioned on Clinical Notes (<a href="https://aclanthology.org/2024.findings-acl.901/" target="_blank" rel="noopener">ACL Findings 2024</a>)</li>
         <li>BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing (<a href="https://academic.oup.com/jamia/article/31/9/1821/7687618" target="_blank" rel="noopener">JAMIA 2024</a>)</li>
+        <li>SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data (<a href="https://www.nature.com/articles/s41746-026-02473-0" target="_blank" rel="noopener">npj Digital Medicine, 2026</a>)</li>
         <li>Automated Identification of Eviction Status from Electronic Health Record Notes (<a href="https://academic.oup.com/jamia/article/30/8/1429/7172838" target="_blank" rel="noopener">JAMIA 2023</a>)</li>
-        <li>SynthEHR-Eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data (<a href="https://arxiv.org/abs/2507.07421" target="_blank" rel="noopener">Preprint, 2025</a>)</li>
         <li>Development of a Surveillance System to Identify Incidence of Evictions Among Patients in Veterans Affairs Medical Centers Across the United States (<a href="https://link.springer.com/article/10.1007/s10900-025-01491-5" target="_blank" rel="noopener">Journal of Community Health 2025</a>)</li>
       </ul>
     </div>
@@ -190,7 +192,7 @@ My work focuses on three connected problems:
 <details markdown="1">
   <summary><strong>AI Conference Area Chair (2025–present)</strong></summary>
   <div markdown="1">
-  NAACL ARR (2025), ACL ARR (2025), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
+  NAACL ARR (2025), ACL ARR (2025, 2026), EMNLP ARR (2025), AACL ARR (2025), EACL ARR (2025)
   </div>
 </details>
 
@@ -217,7 +219,7 @@ My work focuses on three connected problems:
 <details markdown="1">
   <summary><strong>AI Conference Session Chair (2025–present)</strong></summary>
   <div markdown="1">
-  AACL (2025)
+  EACL (2026), AACL (2025)
   </div>
 
 
