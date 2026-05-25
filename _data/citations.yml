@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-25'
 papers:
   oVYZ904AAAAJ:-_dYPAW6P2MC:
     citations: 28
@@ -38,7 +38,7 @@ papers:
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
-    citations: 8
+    citations: 10
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
   oVYZ904AAAAJ:HoB7MX3m0LUC:
@@ -50,15 +50,15 @@ papers:
     title: 'SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization'
     year: '2024'
   oVYZ904AAAAJ:JQOojiI6XY0C:
-    citations: 2
+    citations: 3
     title: 'TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents'
     year: '2026'
   oVYZ904AAAAJ:JV2RwH3_ST0C:
-    citations: 83
+    citations: 85
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
-    citations: 102
+    citations: 103
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:KxtntwgDAa4C:
@@ -74,7 +74,7 @@ papers:
     title: Efficient and Effective Internal Memory Retrieval for LLM-Based Healthcare Prediction
     year: '2026'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
-    citations: 79
+    citations: 80
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:NhqRSupF_l8C:
@@ -98,7 +98,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 46
+    citations: 47
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -114,11 +114,11 @@ papers:
     title: Exploiting Tree Structure for Credit Assignment in RL Training of LLMs
     year: '2026'
   oVYZ904AAAAJ:W5xh706n7nkC:
-    citations: 9
+    citations: 10
     title: 'RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs in Medicine'
     year: '2026'
   oVYZ904AAAAJ:YFjsv_pBGBYC:
-    citations: 42
+    citations: 44
     title: 'MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills'
     year: '2026'
   oVYZ904AAAAJ:ZuybSZzF8UAC:
