@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   oVYZ904AAAAJ:-_dYPAW6P2MC:
     citations: 28
@@ -86,11 +86,11 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 105
+    citations: 106
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
-    citations: 40
+    citations: 41
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
@@ -110,7 +110,7 @@ papers:
     title: 'SynthEHR-eviction: enhancing eviction SDoH detection with LLM-augmented synthetic EHR data'
     year: '2026'
   oVYZ904AAAAJ:UxriW0iASnsC:
-    citations: 5
+    citations: 6
     title: Exploiting Tree Structure for Credit Assignment in RL Training of LLMs
     year: '2026'
   oVYZ904AAAAJ:W5xh706n7nkC:
