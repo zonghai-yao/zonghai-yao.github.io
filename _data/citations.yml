@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-24'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
     title: 'Association between PTSD and health-related social needs in US Veterans: an NLP analysis using Veterans Health Administration Data'
     year: '2025'
+  oVYZ904AAAAJ:0KyAp5RtaNEC:
+    citations: 2
+    title: 'Enhancing Large Language Models for Identifying and Prioritizing Important Medical Jargons From Electronic Health Record Notes Using Data Augmentation: Comparative Study'
+    year: '2026'
   oVYZ904AAAAJ:1qzjygNMrQYC:
     citations: 8
     title: Large language model-based role-playing for personalized medical jargon extraction
@@ -37,10 +41,6 @@ papers:
     citations: 16
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
-  oVYZ904AAAAJ:HoB7MX3m0LUC:
-    citations: 2
-    title: 'Enhancing LLMs for Identifying and Prioritizing Important Medical Jargons from Electronic Health Record Notes Utilizing Data Augmentation: A Comparative Study'
-    year: '2026'
   oVYZ904AAAAJ:IWHjjKOFINEC:
     citations: 24
     title: 'SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization'
@@ -54,7 +54,7 @@ papers:
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
-    citations: 109
+    citations: 110
     title: 'Unveiling GPT-4V''s hidden challenges behind high accuracy on USMLE questions: Observational Study'
     year: '2025'
   oVYZ904AAAAJ:KxtntwgDAa4C:
@@ -82,7 +82,7 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 116
+    citations: 117
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
@@ -90,7 +90,7 @@ papers:
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
-    citations: 37
+    citations: 38
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
