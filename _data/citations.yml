@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: 'Enhancing Large Language Models for Identifying and Prioritizing Important Medical Jargons From Electronic Health Record Notes Using Data Augmentation: Comparative Study'
     year: '2026'
   oVYZ904AAAAJ:1qzjygNMrQYC:
-    citations: 8
+    citations: 9
     title: Large language model-based role-playing for personalized medical jargon extraction
     year: '2024'
   oVYZ904AAAAJ:2osOgNQ5qMEC:
@@ -38,7 +38,7 @@ papers:
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
-    citations: 20
+    citations: 21
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
   oVYZ904AAAAJ:IWHjjKOFINEC:
@@ -90,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 59
+    citations: 60
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -190,7 +190,7 @@ papers:
     title: "Dischargesim: A simulation benchmark for educational doctor\u2013patient communication at discharge"
     year: '2025'
   oVYZ904AAAAJ:vDijr-p_gm4C:
-    citations: 6
+    citations: 7
     title: Chatbot To Help Patients Understand Their Health.
     year: '2025'
   oVYZ904AAAAJ:wbdj-CoPYUoC:
