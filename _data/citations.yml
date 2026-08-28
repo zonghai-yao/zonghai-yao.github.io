@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-28'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -90,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 60
+    citations: 59
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -106,7 +106,7 @@ papers:
     title: Iterative Critique-Refine Framework for Enhancing LLM Personalization
     year: '2025'
   oVYZ904AAAAJ:W5xh706n7nkC:
-    citations: 12
+    citations: 13
     title: 'RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs in Medicine'
     year: '2026'
   oVYZ904AAAAJ:XD-gHx7UXLsC:
