@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
     title: 'Association between PTSD and health-related social needs in US Veterans: an NLP analysis using Veterans Health Administration Data'
     year: '2025'
   oVYZ904AAAAJ:0KyAp5RtaNEC:
-    citations: 2
+    citations: 3
     title: 'Enhancing Large Language Models for Identifying and Prioritizing Important Medical Jargons From Electronic Health Record Notes Using Data Augmentation: Comparative Study'
     year: '2026'
   oVYZ904AAAAJ:1qzjygNMrQYC:
@@ -34,7 +34,7 @@ papers:
     title: The impact of preprint servers in the formation of novel ideas
     year: '2020'
   oVYZ904AAAAJ:AXPGKjj_ei8C:
-    citations: 13
+    citations: 14
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
@@ -42,7 +42,7 @@ papers:
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
   oVYZ904AAAAJ:IWHjjKOFINEC:
-    citations: 25
+    citations: 26
     title: 'SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization'
     year: '2024'
   oVYZ904AAAAJ:JQOojiI6XY0C:
@@ -50,7 +50,7 @@ papers:
     title: 'TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents'
     year: '2026'
   oVYZ904AAAAJ:JV2RwH3_ST0C:
-    citations: 100
+    citations: 102
     title: 'NoteChat: a dataset of synthetic doctor-patient conversations conditioned on clinical notes'
     year: '2024'
   oVYZ904AAAAJ:JoZmwDi-zQgC:
@@ -70,7 +70,7 @@ papers:
     title: Efficient and Effective Internal Memory Retrieval for LLM-Based Healthcare Prediction
     year: '2026'
   oVYZ904AAAAJ:NaGl4SEjCO4C:
-    citations: 85
+    citations: 86
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:O3NaXMp0MMsC:
@@ -78,7 +78,7 @@ papers:
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
-    citations: 124
+    citations: 125
     title: 'BioInstruct: instruction tuning of large language models for biomedical natural language processing'
     year: '2024'
   oVYZ904AAAAJ:R3hNpaxXUhUC:
@@ -90,7 +90,7 @@ papers:
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 59
+    citations: 60
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -114,7 +114,7 @@ papers:
     title: 'LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals'
     year: '2026'
   oVYZ904AAAAJ:YFjsv_pBGBYC:
-    citations: 55
+    citations: 56
     title: 'MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills'
     year: '2026'
   oVYZ904AAAAJ:ZuybSZzF8UAC:
@@ -142,7 +142,7 @@ papers:
     title: 'Paniniqa: Enhancing patient education through interactive question answering'
     year: '2023'
   oVYZ904AAAAJ:fPk4N6BV_jEC:
-    citations: 25
+    citations: 26
     title: 'MedReadCtrl: Personalizing medical text generation with readability-controlled instruction learning'
     year: '2025'
   oVYZ904AAAAJ:geHnlv5EZngC:
@@ -150,7 +150,7 @@ papers:
     title: Medical Thinking with Multiple Images
     year: '2026'
   oVYZ904AAAAJ:iH-uZ7U-co4C:
-    citations: 22
+    citations: 23
     title: 'Readme: Bridging medical jargon and lay understanding for patient education through data-centric nlp'
     year: '2024'
   oVYZ904AAAAJ:mvPsJ3kp5DgC:
@@ -170,7 +170,7 @@ papers:
     title: Development of a Surveillance System to Identify Incidence of Evictions Among Patients in Veterans Affairs Medical Centers Across the United States
     year: '2025'
   oVYZ904AAAAJ:t7zJ5fGR-2UC:
-    citations: 17
+    citations: 18
     title: Exploiting Tree Structure for Credit Assignment in Reinforcement Learning with Large Language Models
     year: '2026'
   oVYZ904AAAAJ:tkaPQYYpVKoC:
@@ -186,11 +186,11 @@ papers:
     title: 'PRIME: Planning and Retrieval-Integrated Memory for Enhanced Reasoning'
     year: '2026'
   oVYZ904AAAAJ:uWiczbcajpAC:
-    citations: 9
+    citations: 10
     title: "Dischargesim: A simulation benchmark for educational doctor\u2013patient communication at discharge"
     year: '2025'
   oVYZ904AAAAJ:vDijr-p_gm4C:
-    citations: 7
+    citations: 8
     title: Chatbot To Help Patients Understand Their Health.
     year: '2025'
   oVYZ904AAAAJ:wbdj-CoPYUoC:
