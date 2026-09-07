@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-02'
+  last_updated: '2026-09-07'
 papers:
   oVYZ904AAAAJ:08ZZubdj9fEC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: Automated identification of eviction status from electronic health record notes
     year: '2023'
   oVYZ904AAAAJ:D_sINldO8mEC:
-    citations: 21
+    citations: 22
     title: 'Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty'
     year: '2026'
   oVYZ904AAAAJ:IWHjjKOFINEC:
@@ -74,7 +74,7 @@ papers:
     title: 'Jmlr: Joint medical llm and retrieval training for enhancing reasoning and professional question answering capability'
     year: '2024'
   oVYZ904AAAAJ:O3NaXMp0MMsC:
-    citations: 24
+    citations: 26
     title: 'CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints'
     year: '2024'
   oVYZ904AAAAJ:PELIpwtuRlgC:
@@ -86,11 +86,11 @@ papers:
     title: Multi-label few-shot ICD coding as autoregressive generation with prompt
     year: '2023'
   oVYZ904AAAAJ:RGFaLdJalmkC:
-    citations: 41
+    citations: 43
     title: 'MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback'
     year: '2025'
   oVYZ904AAAAJ:RYcK_YlVTxYC:
-    citations: 60
+    citations: 62
     title: 'RARE: Retrieval-Augmented Reasoning Enhancement for Large Language Models'
     year: '2025'
   oVYZ904AAAAJ:TFP_iSt0sucC:
@@ -101,20 +101,24 @@ papers:
     citations: 1
     title: 'SynthEHR-eviction: enhancing eviction SDoH detection with LLM-augmented synthetic EHR data'
     year: '2026'
+  oVYZ904AAAAJ:URolC5Kub84C:
+    citations: 0
+    title: 'MedQA-MM: Shortcuts Behind Medical Visual Reasoning'
+    year: '2026'
   oVYZ904AAAAJ:VLnqNzywnoUC:
     citations: 1
     title: Iterative Critique-Refine Framework for Enhancing LLM Personalization
     year: '2025'
   oVYZ904AAAAJ:W5xh706n7nkC:
-    citations: 13
+    citations: 14
     title: 'RiTeK: A Dataset for Large Language Models Complex Reasoning over Textual Knowledge Graphs in Medicine'
     year: '2026'
   oVYZ904AAAAJ:XD-gHx7UXLsC:
-    citations: 31
+    citations: 32
     title: 'LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals'
     year: '2026'
   oVYZ904AAAAJ:YFjsv_pBGBYC:
-    citations: 56
+    citations: 59
     title: 'MedQA-CS: Objective Structured Clinical Examination (OSCE)-Style Benchmark for Evaluating LLM Clinical Skills'
     year: '2026'
   oVYZ904AAAAJ:ZuybSZzF8UAC:
@@ -134,7 +138,7 @@ papers:
     title: Rethinking Patient Education as Multi-turn Multi-modal Interaction
     year: '2026'
   oVYZ904AAAAJ:_kc_bZDykSQC:
-    citations: 22
+    citations: 23
     title: Large Language Models are In-context Teachers for Knowledge Reasoning
     year: '2024'
   oVYZ904AAAAJ:_xSYboBqXhAC:
@@ -158,7 +162,7 @@ papers:
     title: 'DermPrompt: A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis'
     year: '2024'
   oVYZ904AAAAJ:q3oQSFYPqjQC:
-    citations: 12
+    citations: 13
     title: 'From Scores to Steps: Diagnosing and Improving LLM Performance in Evidence-Based Medical Calculations'
     year: '2025'
   oVYZ904AAAAJ:qjMakFHDy7sC:
@@ -194,7 +198,7 @@ papers:
     title: Chatbot To Help Patients Understand Their Health.
     year: '2025'
   oVYZ904AAAAJ:wbdj-CoPYUoC:
-    citations: 8
+    citations: 9
     title: 'TiV-ODE: A Neural ODE-based Approach for Controllable Video Generation From Text-Image Pairs'
     year: '2024'
   oVYZ904AAAAJ:zYLM7Y9cAGgC:
