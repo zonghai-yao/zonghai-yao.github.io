@@ -1,4 +1,5 @@
 ---
+page_class: academic-page research-page
 layout: page
 title: Research
 permalink: /research/
@@ -15,13 +16,13 @@ I pursue capability, trustworthiness, and interpretability together. This means 
 
 I study how agents interpret evidence across medical images, distinguish missing patient information from gaps in medical knowledge, and choose whether to ask a question, retrieve evidence, or withhold a recommendation. My evaluations examine where errors begin and whether the final answer depends on the intended evidence.
 
-Related work includes Medical Thinking with Multiple Images, MedQA-MM, MultiViewDx, MedQA-CS, and MedAbstain. My research on clinical documentation also uses human edits and synthetic corrections to improve factual generation, including Improving Summarization with Human Edits, SYNFAC-EDIT, and NoteChat.
+Related work includes [Medical Thinking with Multiple Images]({{ '/publications/' | relative_url }}#medthinkvqa), [MedQA-MM]({{ '/publications/' | relative_url }}#medqa-mm), [MultiViewDx]({{ '/publications/' | relative_url }}#multiviewdx), [MedQA-CS]({{ '/publications/' | relative_url }}#medqa-cs), and [MedAbstain]({{ '/publications/' | relative_url }}#medabstain). My research on clinical documentation also uses human edits and synthetic corrections to improve factual generation, including [Improving Summarization with Human Edits]({{ '/publications/' | relative_url }}#human-edits), [SYNFAC-EDIT]({{ '/publications/' | relative_url }}#synfac-edit), and [NoteChat]({{ '/publications/' | relative_url }}#notechat).
 
 ## Patient support
 
 I develop systems that explain medical information, check understanding through focused questions, and revise their guidance using the person's responses. This includes visual explanations linked to clinical findings and support that adapts across conversations.
 
-PaniniQA, README, and DischargeSim study explanations and evidence of understanding. Work on MedImageEdu and MediSketch examines the relationship among a medical finding, an image, and its explanation. ChatCLIDS and ChatThero study how support should respond to a person's concerns and feedback across conversations.
+[PaniniQA]({{ '/publications/' | relative_url }}#paniniqa), [README]({{ '/publications/' | relative_url }}#readme), and [DischargeSim]({{ '/publications/' | relative_url }}#dischargesim) study explanations and evidence of understanding. Work on [MedImageEdu]({{ '/publications/' | relative_url }}#medimageedu) and [MediSketch]({{ '/publications/' | relative_url }}#medisketch) examines the relationship among a medical finding, an image, and its explanation. [ChatCLIDS]({{ '/publications/' | relative_url }}#chatclids) and [ChatThero]({{ '/publications/' | relative_url }}#chatthero) study how support should respond to a person's concerns and feedback across conversations.
 
 ## Scientific research
 
@@ -36,4 +37,4 @@ Ph.D. dissertation, University of Massachusetts Amherst, 2026. Advisor: Hong Yu.
 
 My dissertation studies how early interpretations, information-gathering choices, and patient responses shape later decisions in clinical decision support and patient education. It develops evaluations that follow evidence and corrections across intermediate steps and repeated interactions.
 
-[Publication details]({{ '/publications/' | relative_url }})
+[Browse all publications]({{ '/publications/' | relative_url }})

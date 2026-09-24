@@ -1,6 +1,7 @@
 ---
+page_class: academic-page news-page
 layout: page
-title: news
+title: News
 permalink: /news/
 ---
 

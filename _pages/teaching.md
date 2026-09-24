@@ -1,4 +1,5 @@
 ---
+page_class: academic-page teaching-page
 layout: page
 title: Teaching
 permalink: /teaching/
@@ -18,12 +19,44 @@ I use short explanations, focused activities, and teach-back to understand how s
 
 ## Previous teaching
 
-| Role               | Course                                   | Institution   | Term        |
-| ------------------ | ---------------------------------------- | ------------- | ----------- |
-| Guest Lecturer     | COMP.5770 Methods in Data Science        | UMass Lowell  | Spring 2025 |
-| Guest Lecturer     | COMP.5800 Topics in Computer Science     | UMass Lowell  | Fall 2024   |
-| Teaching Assistant | COMPSCI 240: Reasoning Under Uncertainty | UMass Amherst | Spring 2024 |
-| Guest Lecturer     | COMP.5800 Topics in Computer Science     | UMass Lowell  | Fall 2023   |
+<div class="table-responsive teaching-table" role="region" aria-label="Previous teaching experience" tabindex="0">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Role</th>
+        <th scope="col">Course</th>
+        <th scope="col">Institution</th>
+        <th scope="col">Term</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Guest Lecturer</td>
+        <td>COMP.5770 Methods in Data Science</td>
+        <td>UMass Lowell</td>
+        <td>Spring 2025</td>
+      </tr>
+      <tr>
+        <td>Guest Lecturer</td>
+        <td>COMP.5800 Topics in Computer Science</td>
+        <td>UMass Lowell</td>
+        <td>Fall 2024</td>
+      </tr>
+      <tr>
+        <td>Teaching Assistant</td>
+        <td>COMPSCI 240: Reasoning Under Uncertainty</td>
+        <td>UMass Amherst</td>
+        <td>Spring 2024</td>
+      </tr>
+      <tr>
+        <td>Guest Lecturer</td>
+        <td>COMP.5800 Topics in Computer Science</td>
+        <td>UMass Lowell</td>
+        <td>Fall 2023</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Research mentoring
 

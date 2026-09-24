@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, [SynthEHR-eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data](https://www.nature.com/articles/s41746-026-02473-0), has been published in **npj Digital Medicine**.
+Research update: [SynthEHR-eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data](https://www.nature.com/articles/s41746-026-02473-0), **npj Digital Medicine (2026)**.
