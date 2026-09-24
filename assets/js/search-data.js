@@ -4,12 +4,47 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-about",
+          title: "About",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-research",
+          title: "Research",
+          description: "Learning and decision-making for trustworthy generative AI.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Conference papers, journal articles, preprints, and manuscripts.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Courses, teaching approach, and research mentoring.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum vitae of Zonghai Yao.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -425,8 +460,11 @@ ninja.data = [{
           section: "News",},{id: "news-chatclids-and-prime-were-accepted-to-aaai-2026-in-main-technical-and-ai-for-social-impact",
           title: '📚 ChatCLIDS and PRIME were accepted to AAAI 2026 in Main Technical and...',
           description: "",
-          section: "News",},{id: "news-synthehr-eviction-enhancing-eviction-sdoh-detection-with-llm-augmented-synthetic-ehr-data-was-accepted-for-publication-in-npj-digital-medicine",
-          title: '🎉 SynthEHR-eviction: enhancing eviction SDoH detection with LLM-augmented synthetic EHR data was accepted...',
+          section: "News",},{id: "news-our-paper-socioeconomic-demographic-and-geographic-disparities-in-accessibility-to-food-pantries-in-the-united-states-has-been-published-in-scientific-reports",
+          title: 'Our paper, Socioeconomic, Demographic and Geographic Disparities in Accessibility to Food Pantries in...',
+          description: "",
+          section: "News",},{id: "news-our-paper-synthehr-eviction-enhancing-eviction-sdoh-detection-with-llm-augmented-synthetic-ehr-data-has-been-published-in-npj-digital-medicine",
+          title: 'Our paper, SynthEHR-eviction: Enhancing Eviction SDoH Detection with LLM-Augmented Synthetic EHR Data, has...',
           description: "",
           section: "News",},{id: "news-medqa-cs-and-medabstain-were-accepted-to-eacl-2026",
           title: '📚 MedQA-CS and MedAbstain were accepted to EACL 2026.',
@@ -439,6 +477,30 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-four-papers-were-accepted-to-acl-2026-very-happy-to-be-going-back-to-️-san-diego-in-july-to-see-everyone",
           title: '🎉 Four papers were accepted to ACL 2026 ! Very happy to be...',
+          description: "",
+          section: "News",},{id: "news-our-paper-enhancing-large-language-models-for-identifying-and-prioritizing-important-medical-jargons-from-electronic-health-record-notes-using-data-augmentation-comparative-study-has-been-published-in-jmir-ai",
+          title: 'Our paper, Enhancing Large Language Models for Identifying and Prioritizing Important Medical Jargons...',
+          description: "",
+          section: "News",},{id: "news-our-paper-posttraumatic-stress-disorder-health-related-social-needs-and-cognitive-outcomes-in-us-veterans-has-been-published-in-jama-network-open",
+          title: 'Our paper, Posttraumatic Stress Disorder, Health-Related Social Needs, and Cognitive Outcomes in US...',
+          description: "",
+          section: "News",},{id: "news-our-perspective-toward-reviewable-medical-evidence-synthesis-for-care-delivery-has-been-published-in-npj-digital-medicine",
+          title: 'Our Perspective, Toward Reviewable Medical Evidence Synthesis for Care Delivery, has been published...',
+          description: "",
+          section: "News",},{id: "news-our-perspective-patient-journey-evaluation-for-consumer-ai-health-assistants-has-been-published-in-npj-digital-medicine",
+          title: 'Our Perspective, Patient Journey Evaluation for Consumer AI Health Assistants, has been published...',
+          description: "",
+          section: "News",},{id: "news-research-update-medqa-mm-shortcuts-behind-medical-visual-reasoning-has-been-accepted-to-emnlp-2026-and-medisketch-test-time-scaling-for-multimodal-patient-education-has-been-accepted-to-findings-of-emnlp-2026",
+          title: 'Research update: MedQA-MM: Shortcuts Behind Medical Visual Reasoning has been accepted to EMNLP...',
+          description: "",
+          section: "News",},{id: "news-this-fall-i-am-co-teaching-methods-in-data-science-comp-4770-5770-at-umass-lowell-course-overview",
+          title: 'This fall, I am co-teaching Methods in Data Science (COMP.4770/5770) at UMass Lowell....',
+          description: "",
+          section: "News",},{id: "news-research-update-multiviewdx-evidence-linked-multi-view-clinical-diagnosis-has-been-accepted-to-transactions-of-the-association-for-computational-linguistics-tacl",
+          title: 'Research update: MultiViewDx: Evidence-Linked Multi-View Clinical Diagnosis has been accepted to Transactions of...',
+          description: "",
+          section: "News",},{id: "news-i-joined-the-university-of-massachusetts-lowell-as-a-research-assistant-professor-in-computer-science-in-september-2026",
+          title: 'I joined the University of Massachusetts Lowell as a Research Assistant Professor in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -497,7 +559,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%7A%6F%6E%67%68%61%69%79%61%6F@%75%6D%61%73%73.%65%64%75", "_blank");
+          window.open("mailto:%7A%6F%6E%67%68%61%69_%79%61%6F@%75%6D%6C.%65%64%75", "_blank");
         },
       },{
         id: 'social-linkedin',
