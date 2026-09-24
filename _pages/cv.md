@@ -13,4 +13,4 @@ description: Curriculum vitae of Zonghai Yao.
 
 **Education:** Ph.D. in Computer Science, University of Massachusetts Amherst, 2026; M.S. in Computer Science, University of Massachusetts Amherst, 2021; B.S. in Computer Science, Nankai University, 2019.
 
-**Dissertation:** *Long-Horizon Health AI Agents That Think and Act*. Advisor: Hong Yu.
+**Dissertation:** _Long-Horizon Health AI Agents That Think and Act_. Advisor: Hong Yu.

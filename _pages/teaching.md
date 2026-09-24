@@ -18,12 +18,12 @@ I use short explanations, focused activities, and teach-back to understand how s
 
 ## Previous teaching
 
-| Role | Course | Institution | Term |
-|---|---|---|---|
-| Guest Lecturer | COMP.5770 Methods in Data Science | UMass Lowell | Spring 2025 |
-| Guest Lecturer | COMP.5800 Topics in Computer Science | UMass Lowell | Fall 2024 |
+| Role               | Course                                   | Institution   | Term        |
+| ------------------ | ---------------------------------------- | ------------- | ----------- |
+| Guest Lecturer     | COMP.5770 Methods in Data Science        | UMass Lowell  | Spring 2025 |
+| Guest Lecturer     | COMP.5800 Topics in Computer Science     | UMass Lowell  | Fall 2024   |
 | Teaching Assistant | COMPSCI 240: Reasoning Under Uncertainty | UMass Amherst | Spring 2024 |
-| Guest Lecturer | COMP.5800 Topics in Computer Science | UMass Lowell | Fall 2023 |
+| Guest Lecturer     | COMP.5800 Topics in Computer Science     | UMass Lowell  | Fall 2023   |
 
 ## Research mentoring
 
