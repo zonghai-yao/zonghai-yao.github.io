@@ -1,11 +1,16 @@
 ---
-layout: cv
+layout: page
+title: CV
 permalink: /cv/
-title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Curriculum vitae of Zonghai Yao.
 ---
+
+[Download my CV (PDF)]({{ '/assets/pdf/Zonghai_Yao_CV.pdf' | relative_url }})
+
+**Current appointment:** Research Assistant Professor in Computer Science, University of Massachusetts Lowell, September 2026 to present.
+
+**Education:** Ph.D. in Computer Science, University of Massachusetts Amherst, 2026; M.S. in Computer Science, University of Massachusetts Amherst, 2021; B.S. in Computer Science, Nankai University, 2019.
+
+**Dissertation:** _Long-Horizon Health AI Agents That Think and Act_. Advisor: Hong Yu.
