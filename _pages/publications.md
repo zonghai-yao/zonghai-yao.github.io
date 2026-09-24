@@ -1,4 +1,5 @@
 ---
+page_class: academic-page publications-page
 layout: page
 title: Publications
 permalink: /publications/

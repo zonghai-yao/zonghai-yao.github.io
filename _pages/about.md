@@ -1,10 +1,10 @@
 ---
+page_class: academic-page about-page
 layout: about
 title: About
 permalink: /
 subtitle: Research Assistant Professor · Computer Science · UMass Lowell
-nav: true
-nav_order: 1
+nav: false
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,8 +15,8 @@ profile:
 selected_papers: false
 social: true
 announcements:
-  enabled: true
-  scrollable: true
+  enabled: false
+  scrollable: false
   limit: 8
 ---
 
@@ -27,6 +27,12 @@ My research develops learning and decision-making methods for generative AI syst
 I pursue **capability, trustworthiness, and interpretability** together, with the goal of supporting informed human judgment and sustained inquiry. I focus on long-horizon tasks, where an early interpretation or action changes the evidence available at later steps. Alongside the quality of a system's decisions, I consider the time and expertise people need to verify and correct its work.
 
 [Research]({{ '/research/' | relative_url }}) · [Publications]({{ '/publications/' | relative_url }}) · [Teaching]({{ '/teaching/' | relative_url }}) · [CV (PDF)]({{ '/assets/pdf/Zonghai_Yao_CV.pdf' | relative_url }})
+
+## News
+
+{% include news.liquid limit=true %}
+
+[All news]({{ '/news/' | relative_url }})
 
 ## Research directions
 

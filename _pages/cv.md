@@ -1,4 +1,5 @@
 ---
+page_class: academic-page cv-page
 layout: page
 title: CV
 permalink: /cv/

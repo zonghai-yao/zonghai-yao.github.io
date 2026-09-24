@@ -1,0 +1,159 @@
+.academic-page {
+  font-size: 1rem;
+  line-height: 1.65;
+
+  .post-header {
+    margin-bottom: 1.75rem;
+  }
+
+  .post-title {
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 500;
+    margin-bottom: 0.65rem;
+  }
+
+  .post-header .desc,
+  .post-description {
+    line-height: 1.5;
+    margin-bottom: 0;
+  }
+
+  article h2 {
+    font-size: 1.5rem;
+    line-height: 1.35;
+    font-weight: 500;
+    margin: 2.25rem 0 0.9rem;
+    scroll-margin-top: 5rem;
+  }
+
+  article h3 {
+    font-size: 1.125rem;
+    line-height: 1.45;
+    font-weight: 500;
+    margin: 1.65rem 0 0.65rem;
+    scroll-margin-top: 5rem;
+  }
+
+  article p {
+    margin-bottom: 1rem;
+  }
+
+  article ul {
+    padding-left: 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+
+  article li + li {
+    margin-top: 0.55rem;
+  }
+
+  .news {
+    clear: both;
+  }
+
+  .news table {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  .news th,
+  .news td {
+    vertical-align: top;
+    line-height: 1.55;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .news th {
+    width: 9.5rem;
+    min-width: 9.5rem;
+    padding-right: 1rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+  }
+
+  .news td {
+    overflow-wrap: anywhere;
+  }
+}
+
+.about-page {
+  .profile .more-info {
+    font-family: inherit;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .profile .more-info p {
+    display: block;
+    margin: 0 0 0.3rem;
+    overflow-wrap: anywhere;
+  }
+
+  #news,
+  #research-directions {
+    clear: both;
+  }
+}
+
+.publications-page article {
+  h3 {
+    font-size: 1.05rem;
+    margin-top: 1.75rem;
+  }
+
+  // The existing entries use a standalone anchor followed by one paragraph.
+  a[id] {
+    display: block;
+    scroll-margin-top: 5rem;
+  }
+
+  a[id] + p {
+    margin-bottom: 1.4rem;
+    line-height: 1.6;
+  }
+
+  a[id]:target + p {
+    border-left: 3px solid var(--global-theme-color);
+    padding-left: 0.75rem;
+  }
+}
+
+.teaching-page .teaching-table {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  table {
+    width: 100%;
+    min-width: 38rem;
+  }
+
+  th,
+  td {
+    padding: 0.65rem 0.8rem;
+    vertical-align: top;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .academic-page {
+    .post-title {
+      font-size: 1.75rem;
+    }
+
+    article h2 {
+      font-size: 1.35rem;
+    }
+
+    article h3 {
+      font-size: 1.1rem;
+    }
+
+    .news th {
+      width: 7rem;
+      min-width: 7rem;
+      padding-right: 0.6rem;
+    }
+  }
+}
