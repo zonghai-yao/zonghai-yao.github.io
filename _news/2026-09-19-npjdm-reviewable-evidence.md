@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Perspective, [Toward Reviewable Medical Evidence Synthesis for Care Delivery](https://www.nature.com/articles/s41746-026-03195-z), has been published in **npj Digital Medicine**.
+Our paper, [Toward Reviewable Medical Evidence Synthesis for Care Delivery](https://www.nature.com/articles/s41746-026-03195-z), has been published in **npj Digital Medicine**.
